@@ -1,1 +1,1 @@
-Merhaba benim python projemdir. Açıklama ilerde yapacağım.
+Açıklama ilerde yapacağım.
